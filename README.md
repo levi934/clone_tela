@@ -16,5 +16,5 @@ Este repositório contém um protótipo de interface de aplicativo, replicando o
 
 2. Refinar layout responsivo e visual com efeitos sutis.
 
-3. Criar um protótipo útil como base para projetos reais futuros.
+
 
